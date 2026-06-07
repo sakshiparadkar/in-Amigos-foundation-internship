@@ -1,28 +1,41 @@
-# InAmigos Foundation - Web Development Internship
+# In-Amigos Foundation Internship
 
-This repository contains the tasks completed during my Web Development Internship at InAmigos Foundation.
+This repository contains the tasks and projects completed during my internship with In-Amigos Foundation.
 
-## About
+## 📂 Repository Structure
 
-The purpose of this repository is to document and showcase the work completed throughout the internship. The tasks included web development activities, website analysis, improvement suggestions, and other assignments provided during the internship program.
+### 💻 Web Development Tasks
 
-## Repository Structure
+* Task 1
+* Task 2
+* Task 3
+* Task 4
 
-Each task is organized in a separate folder for easy access and review.
+These tasks focus on web development concepts, frontend implementation, and practical project-based learning.
 
-## Technologies Used
+### ✍️ Content Writing Tasks
+
+* Article 1
+* Article 2
+* Article 3
+* Article 4
+
+These tasks demonstrate content creation, research, writing, and communication skills across different topics.
+
+## 🛠️ Skills Demonstrated
 
 * HTML
 * CSS
 * JavaScript
-* GitHub
+* Responsive Web Design
+* Content Writing
+* Research & Analysis
+* Documentation
 
-## Author
+## 🎯 Purpose
 
-**Sakshi Paradkar**
+The objective of this repository is to document my internship journey, showcase completed assignments, and highlight both technical and communication skills developed during the program.
 
-M.Sc. Computer Science
+---
 
-## Acknowledgement
-
-I would like to thank InAmigos Foundation for providing me with the opportunity to gain practical experience and enhance my web development skills through this internship.
+**Intern:** Sakshi Paradkar
